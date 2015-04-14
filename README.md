@@ -1,7 +1,7 @@
 HL-ATCMD
 ============
 
-This simple command line tool serves to send AT command to a serial device.
+This simple command line tool for sending AT command to a serial device.
 
 
 Build
